@@ -1,9 +1,10 @@
+import Header from '@/components/Header';
 import Image from 'next/image';
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <p>Da maminha ao prato</p>
+    <main className="flex bg-bgOne bg-fixed bg-center bg-no-repeat bg-cover min-h-screen">
+      <section></section>
     </main>
   );
 }
